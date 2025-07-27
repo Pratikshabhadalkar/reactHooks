@@ -1,0 +1,2 @@
+React Hooks are functions introduced in React 16.8 that allow functional components to manage state, side effects, context, refs, and more. Hooks solve the problem of logic reuse between components and eliminate the need for class components.
+React provides built-in hooks like useState, useEffect, useContext, useRef, and useReducer. Custom hooks can also be created to extract and share complex logic.
